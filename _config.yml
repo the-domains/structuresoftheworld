@@ -1,7 +1,7 @@
 name: 'Structuresoftheworld '
 favicon: null
-layout_spectrum: 0.50319
-typography_spectrum: 0.89816
+layout_spectrum: 0.75764
+typography_spectrum: 0.74691
 title: Structures of the World
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0
   lightness: 1
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
