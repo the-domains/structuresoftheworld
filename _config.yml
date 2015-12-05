@@ -1,29 +1,41 @@
-name: 'Structuresoftheworld '
-favicon: null
-layout_spectrum: 0.75764
-typography_spectrum: 0.74691
 title: Structures of the World
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#010101'
+    - '#FBFBFB'
+    - '#303030'
+    - '#CFCFCF'
+    - '#656565'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: 'Structuresoftheworld '
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.74691
+layout_spectrum: 0.75764
