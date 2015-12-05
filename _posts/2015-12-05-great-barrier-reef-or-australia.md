@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/7IzrGohB8u/?taken-by=structuresoftheworld'
 title: 'Great Barrier Reef | Australia'
-datePublished: '2015-12-05T15:42:00.362Z'
-dateModified: '2015-12-05T14:53:43.342Z'
+datePublished: '2015-12-05T15:43:05.329Z'
+dateModified: '2015-12-05T15:42:00.362Z'
 sourcePath: _posts/2015-12-05-great-barrier-reef-or-australia.md
 published: true
 inFeed: true
