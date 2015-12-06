@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T14:33:58.600Z'
-dateModified: '2015-12-06T14:33:41.789Z'
+datePublished: '2015-12-06T14:42:03.049Z'
+dateModified: '2015-12-06T14:41:56.968Z'
 author: []
 title: 'Palmanova | Italy | The late Renaissance town and citadel shaped as a star was built in the late 16th century by the Venetian Republic. The military architect Giulio Savorgnan designed the town, following the ideals of utopia.'
 sourcePath: _posts/2015-12-05-palmanova-or-italy-or-the-late-renaissance-town-and-citadel-sh.md
@@ -23,7 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d728ce94c6e775aaafdc092c3faf162690d8989d.png)
+
 # 
 
 Palmanova | Italy | The late Renaissance town and citadel shaped as a star was built in the late 16th century by the Venetian Republic. The military architect Giulio Savorgnan designed the town, following the ideals of utopia.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d728ce94c6e775aaafdc092c3faf162690d8989d.png)
