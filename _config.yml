@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.5
+  saturation: 1
   brandStrength: 0
-  rhythmicContrast: 0.5
+  lightness: 0.5139635
   brandColors:
     - '#1F1726'
     - '#0E909B'
     - '#1F4B5B'
     - '#5C3127'
     - '#B4A388'
-  lightness: 0.5
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Structuresoftheworld '
 favicon: null
+name: 'Structuresoftheworld '
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.65438
+typography_spectrum: 0.896348
 layout_spectrum: 0
