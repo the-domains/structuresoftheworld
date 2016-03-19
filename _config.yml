@@ -13,14 +13,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  lightness: 0.9940923
+  lightness: 1
   brandColors:
     - '#FBFCFF'
     - '#3A393A'
     - '#86878A'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'Structuresoftheworld '
+favicon: null
 opengraph:
   image: null
   type: null
