@@ -1,5 +1,8 @@
+name: 'Structuresoftheworld '
+favicon: null
+layout_spectrum: 0.25267
+typography_spectrum: 0.1756176
 title: Structures of the World
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.9940923
   brandColors:
     - '#1F1726'
     - '#0E909B'
     - '#1F4B5B'
     - '#5C3127'
     - '#B4A388'
+  brandStrength: 0
+  lightness: 0.9940923
+  saturation: 0
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'Structuresoftheworld '
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1756176
-layout_spectrum: 0
+purpose: []
