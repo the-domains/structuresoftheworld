@@ -14,15 +14,13 @@ collections:
       number: 10
 color:
   saturation: 0
-  brandStrength: 0
-  rhythmicContrast: 1
-  brandColors:
-    - '#1F1726'
-    - '#0E909B'
-    - '#1F4B5B'
-    - '#5C3127'
-    - '#B4A388'
+  brandStrength: 1
   lightness: 0.9940923
+  brandColors:
+    - '#FCFDFF'
+    - '#414142'
+    - '#86878A'
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +29,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'Structuresoftheworld '
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1756176
-layout_spectrum: 1
+layout_spectrum: 0.04672394
