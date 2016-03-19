@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Structuresoftheworld '
 favicon: null
+name: 'Structuresoftheworld '
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1756176
-layout_spectrum: 0
+layout_spectrum: 1
